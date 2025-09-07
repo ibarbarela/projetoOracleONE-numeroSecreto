@@ -27,6 +27,11 @@ Este projeto foi uma jornada incrível e me permitiu dar os primeiros passos no 
 
 ---
 
+## 📸 Demonstração
+
+
+---
+
 ## ▶️ Como jogar
 1. Abra o https://projeto-oracle-one-numero-secreto-o.vercel.app/ no navegador.  
 2. O jogo irá gerar um número secreto automaticamente.  
