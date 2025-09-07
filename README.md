@@ -30,7 +30,11 @@ Este projeto foi uma jornada incrível e me permitiu dar os primeiros passos no 
 ## ▶️ Como jogar
 1. Abra o arquivo `index.html` no navegador.  
 2. O jogo irá gerar um número secreto automaticamente.  
-3. Digite seu palpite e receba dicas até acertar! 🎯  
+3. Digite seu palpite e receba dicas até acertar! 🎯
+
+---
+
+🔗 Acesse o portfólio online: https://projeto-oracle-one-numero-secreto-o.vercel.app/
 
 ---
 
