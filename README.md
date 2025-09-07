@@ -1,4 +1,4 @@
-# 🎲 Jogo do Número Secreto 🤫 TESTETETETETE
+# 🎲 Jogo do Número Secreto 🤫
 
 ## 📌 Descrição do Projeto
 Este é o meu **primeiro projeto de programação**, desenvolvido durante o curso de **Lógica de Programação da Alura**, no **Programa Oracle - ONE**.  
