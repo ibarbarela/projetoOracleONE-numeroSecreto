@@ -1,25 +1,37 @@
-Jogo do Número Secreto 🤫
-Descrição do Projeto
-Este é o meu primeiro projeto de programação, desenvolvido durante o curso de lógica de programação da Alura, como parte do programa Oracle ONE.
+# 🎲 Jogo do Número Secreto 🤫
 
-O Jogo do Número Secreto é uma aplicação web simples e interativa, onde o jogador deve adivinhar um número secreto gerado aleatoriamente pelo computador. A cada tentativa, o jogo fornece dicas para ajudar o jogador a chegar à resposta correta.
+## 📌 Descrição do Projeto
+Este é o meu **primeiro projeto de programação**, desenvolvido durante o curso de **Lógica de Programação da Alura**, no **Programa Oracle ONE**.  
 
-🚀 Tecnologias Utilizadas
-Durante o desenvolvimento deste projeto, tive a oportunidade de aprender e aplicar os seguintes conceitos:
+O **Jogo do Número Secreto** é uma aplicação web simples e interativa, onde o jogador deve adivinhar um número secreto gerado aleatoriamente pelo computador.  
+A cada tentativa, o jogo fornece dicas para ajudar o jogador a chegar à resposta correta.
 
-HTML: Utilizado para a estruturação da página, definindo o conteúdo do jogo.
+---
 
-CSS: Usado para estilizar a interface, tornando-a visualmente agradável e intuitiva.
+## 🚀 Tecnologias Utilizadas
+Durante o desenvolvimento deste projeto, aprendi e apliquei:
 
-JavaScript: A linguagem principal para a lógica do jogo, onde aprendi a manipular o DOM, gerar números aleatórios, controlar o fluxo do jogo e interagir com o usuário.
+- **HTML5** → Estruturação da página.  
+- **CSS3** → Estilização da interface para torná-la mais agradável.  
+- **JavaScript** → Lógica do jogo, manipulação do DOM e interação com o usuário.  
 
-✨ O que eu aprendi
-Este projeto foi uma jornada incrível e me permitiu dar os primeiros passos no mundo da tecnologia. Aprendi a:
+---
 
-Integrar HTML, CSS e JavaScript para criar uma aplicação web completa.
+## ✨ O que eu aprendi
+Este projeto foi uma jornada incrível e me permitiu dar os primeiros passos no mundo da tecnologia. Entre os aprendizados estão:
 
-Compreender a importância da lógica de programação.
+- Integrar **HTML, CSS e JavaScript** em uma aplicação web.  
+- Entender a importância da **lógica de programação**.  
+- Trabalhar com **funções, variáveis, condicionais (if/else) e loops**.  
+- Resolver problemas de forma prática e criativa.  
 
-Usar funções, variáveis, condicionais (if/else) e loops.
+---
 
-Resolver problemas de forma prática e criativa.
+## ▶️ Como jogar
+1. Abra o arquivo `index.html` no navegador.  
+2. O jogo irá gerar um número secreto automaticamente.  
+3. Digite seu palpite e receba dicas até acertar! 🎯  
+
+---
+
+💡 Esse foi o meu primeiro contato real com programação e estou animada para evoluir ainda mais em novos projetos! 🚀
