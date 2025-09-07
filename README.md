@@ -29,6 +29,7 @@ Este projeto foi uma jornada incrível e me permitiu dar os primeiros passos no 
 
 ## 📸 Demonstração
 
+![Demonstração do site](demonstracaojgnumerosecreto.gif.gif)
 
 ---
 
