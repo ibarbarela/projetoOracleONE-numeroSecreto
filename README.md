@@ -1,7 +1,7 @@
 # 🎲 Jogo do Número Secreto 🤫
 
 ## 📌 Descrição do Projeto
-Este é o meu **primeiro projeto de programação**, desenvolvido durante o curso de **Lógica de Programação da Alura**, no **Programa Oracle ONE**.  
+Este é o meu **primeiro projeto de programação**, desenvolvido durante o curso de **Lógica de Programação da Alura**, no **Programa Oracle - ONE**.  
 
 O **Jogo do Número Secreto** é uma aplicação web simples e interativa, onde o jogador deve adivinhar um número secreto gerado aleatoriamente pelo computador.  
 A cada tentativa, o jogo fornece dicas para ajudar o jogador a chegar à resposta correta.
